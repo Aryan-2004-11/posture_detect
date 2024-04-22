@@ -1,4 +1,4 @@
-# posenet-demo-ml5js
+# posenet-demo
 A posenet demo built using ml5.js
 
-Live Demo - https://campusx-official.github.io/posenet-demo-ml5js/
+Live Demo - https://aryan-2004-11.github.io/posture_detect/
